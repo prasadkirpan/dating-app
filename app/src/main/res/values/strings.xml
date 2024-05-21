@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DatingApp</string>
+    <string name="by_clicking_on_that_you_are_accepting_our_terms_and_conditions">By clicking on that you are accepting our terms and conditions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dating">Dating</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="terms_conditions_text">
+When crafting terms and conditions for a dating app, it\\\'s important to cover various aspects related to usage, user behavior, privacy, safety, and more. Below is a generalized template that you can tailor to your specific dating app\'s needs and legal requirements:
+    You must be at least 18 years old to use this dating app. By using this app, you represent and warrant that you have the right, authority, and capacity to enter into this agreement and to abide by all of the terms and conditions of this agreement.
+    You agree to provide accurate and current information during registration.
+You agree to maintain the confidentiality of your account and password.
+You agree not to use the app for any illegal or unauthorized purpose.
+    If you have any questions about these terms and conditions, please contact us at +917030799480</string>
+
+</resources>

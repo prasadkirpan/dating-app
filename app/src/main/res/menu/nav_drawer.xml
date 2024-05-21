@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/favourite"
+        android:title="Favourite"
+        android:icon="@drawable/favrate"/>
+    <item android:id="@+id/rateUs"
+        android:title="Rate Us"
+        android:icon="@drawable/baseline_star_rate_24"/>
+    <item android:id="@+id/shareApp"
+        android:title="Share App"
+        android:icon="@drawable/baseline_share_24"/>
+    <item android:id="@+id/termsCondition"
+        android:title="Terms Conditions"
+        android:icon="@drawable/baseline_privacy_tip_24"/>
+    <item
+        android:id="@+id/Developer"
+        android:icon="@drawable/dev"
+        android:title="Developer" />
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/rating"
+        android:title="Feedback" />
+
+</menu>
